@@ -1,18 +1,29 @@
 # IES-Faust--Barber-
 Contenido de aules de 2ºSMX
 
-## Teachers                      Assignatures
+## Teachers
 
-Sergio Laguna ❤️‍🔥 ❤️‍🔥               AWE
-Toni                             DASP
-Raquel                           IPE
-Iván                             IS
-Rafa                             IP
-Enrique                          NS
-Óscar                            NOS
-Pilar                            OM
-Rafa                             SASP
+* Sergio Laguna ❤️‍🔥 ❤️‍🔥
+* Toni
+* Raquel
+* Iván
+* Rafa
+* Enrique
+* Óscar
+* Pilar
+* Rafa
+
+## Assignatures
+* AWE
+* DASP
+* IPE
+* IS
+* IP
+* NS
+* NOS
+* OM
+* SASP
 
 ```
-Ok, mañana 💜
+Ok, tomorrow 💜
 ```
